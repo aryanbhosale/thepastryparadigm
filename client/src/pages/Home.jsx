@@ -24,7 +24,7 @@ const Home = () => {
                 <motion.div className='home-content' {...headContainerAnimation}>
                     <motion.div {...headTextAnimation}>
                         <h1 className='head-text'>
-                        TWIRL, <br className='xl:block hidden'/> PAIR, PICK. 
+                        TWIRL <br className='xl:block hidden'/> PAIR PICK
                         </h1>
                     </motion.div>
                     <motion.div {...headContentAnimation} className="flex flex-col gap-5 ">
